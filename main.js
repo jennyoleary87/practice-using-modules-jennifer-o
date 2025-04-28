@@ -62,3 +62,10 @@ Expected Deliverables
 collaborative projects.
 */
 
+/*
+===== REFLECTION =====
+This assignment was completed as a group.
+We learned about using modules, importing packages, using json files,
+using .gitignore, installing dependencies with npm,
+and other new concepts regarding the command line.
+*/

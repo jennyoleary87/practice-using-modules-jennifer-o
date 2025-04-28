@@ -1,5 +1,6 @@
 const yargs = require('yargs');
 const chalk = require('chalk');
+// npm install ; then you don't have to specify what modules you want to install later ; puts back dependencies
 
 // const argv = yargs(hideBin(ProcessingInstruction.argv)).argv
 const argv = yargs
